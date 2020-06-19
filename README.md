@@ -1,2 +1,2 @@
 # Adweek
-Condé Nast's ad for making Adweek's hotlist 2013
+Condé Nast's ad for making the 2013 Adweek's hotlist
